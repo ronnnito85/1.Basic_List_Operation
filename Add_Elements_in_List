@@ -1,0 +1,29 @@
+languages = ["Python", "Ruby"]
+
+languages += ['C++','Java','C#']
+
+print(languages)
+
+languages = ['Haskell'] + languages  
+
+print(languages)
+
+languages += ['Go']
+
+print(languages)
+print(languages [1])
+print(languages [3])
+print(languages [5])
+
+languages = [language.replace('C#','F#') for language in languages]
+
+print(languages)
+
+print(len(languages))
+print(languages [6])
+
+print ('Haskell' in languages)
+print ('Ruby' in languages)
+print ('Go' in languages)
+print ('Rust' in languages)
+ 
