@@ -1,0 +1,17 @@
+n = input("Enter the numbere: ")
+n = int(n)
+q = input("Enter the numbere: ")
+q = int(q)
+k = input("Enter the numbere: ")
+k = int(k)
+
+List = []
+
+List += [n]
+List += [q]
+List += [k]
+
+print(List)
+    
+
+
