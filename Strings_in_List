@@ -1,0 +1,8 @@
+s1 = "Python"
+s2 = "Django"
+
+List = []
+
+List = [s1] + [s2]
+
+print(List)
