@@ -1,0 +1,9 @@
+s1 = "Veronika"
+s2 = "Zoran"
+s3 = "Radenkova"
+
+List = []
+
+List += [s1] + [s2] + [s3]
+
+print(List)
