@@ -1,0 +1,6 @@
+List = [True, True, False]
+
+print(List)
+    
+
+
