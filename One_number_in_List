@@ -1,0 +1,6 @@
+n = input("Enter the numbere: ")
+n = int(n)
+
+List = []
+List += [n]
+print(List)
