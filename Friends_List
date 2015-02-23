@@ -1,0 +1,9 @@
+count = 1
+List = []
+
+while count <= 5:
+    s = input("Enter the name: ")
+    List = List + [s]
+    count += 1
+    
+print(List)
