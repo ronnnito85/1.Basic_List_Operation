@@ -1,0 +1,6 @@
+List = []
+
+print(List)
+    
+
+
